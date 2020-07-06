@@ -1,0 +1,11 @@
+.footer{
+    position: fixed;
+    bottom: 0; /*Coloca o rodape la em bixo da pagina*/
+    display: flex;
+    justify-content: flex-end; /*Colocou o texto desenvolvido por no canto direito da tela*/
+}
+
+.footer > span{
+    font-size: 1.1rem;
+    font-weight: 300;
+}
