@@ -14,6 +14,8 @@ import { HomeComponent } from './views/home/home.component'
 import {MatCardModule} from '@angular/material/card';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { RedDirective } from './directives/red.directive';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
+import {MatButtonModule} from '@angular/material/button'
 
 
 
@@ -26,6 +28,7 @@ import { RedDirective } from './directives/red.directive';
     HomeComponent,
     ProductCrudComponent,
     RedDirective,
+    ProductCreateComponent,
      
 
   ],
@@ -36,6 +39,7 @@ import { RedDirective } from './directives/red.directive';
     MatSidenavModule,
     MatListModule,
     MatCardModule,
+    MatButtonModule,
     routing
     
   ],
