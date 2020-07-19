@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Sansung S20+ Ultra Power",
-      "price": "7000.89"
+      "price": "6000.89"
     },
     {
       "name": "Produto de teste",
@@ -21,9 +21,14 @@
       "id": 5
     },
     {
-      "name": "Veio do Formulario",
-      "price": "9.99",
-      "id": 6
+      "name": "Novo 2",
+      "price": "15.95",
+      "id": 8
+    },
+    {
+      "name": "teste2",
+      "price": "1",
+      "id": 9
     }
   ]
 }
